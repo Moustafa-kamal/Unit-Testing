@@ -1,0 +1,11 @@
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\bin\Debug\net8.0\Day1_Task.deps.json
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\bin\Debug\net8.0\Day1_Task.dll
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\bin\Debug\net8.0\Day1_Task.pdb
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.AssemblyInfoInputs.cache
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.AssemblyInfo.cs
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.dll
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\refint\Day1_Task.dll
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\Day1_Task.pdb
+C:\Users\Mostafa Kamal\Downloads\Unit Testing\Day1\Day1_Task_Soluttion\Day1_Task\obj\Debug\net8.0\ref\Day1_Task.dll
